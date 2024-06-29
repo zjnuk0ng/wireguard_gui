@@ -1,0 +1,12 @@
+{
+  "directAccess": {
+    "Server1": {
+      "url": "https://server.one:8444",
+      "auth": "ABCDEFG"
+    },
+    "Server2": {
+      "url": "https://server.two:8444",
+      "auth": "ABCDEFG"
+    }
+  }
+}
